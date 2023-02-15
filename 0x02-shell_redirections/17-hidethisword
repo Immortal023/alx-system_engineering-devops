@@ -1,2 +1,2 @@
 17-hidethisword
-grep -v "bin"/etc/pass
+grep -v "bin" /etc/passwd
